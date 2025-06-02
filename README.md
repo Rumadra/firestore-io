@@ -1,6 +1,6 @@
 # firestore-io
 
-[!["Buy Me A Coffee"](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rumadra&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/rumadra)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <a href="https://www.buymeacoffee.com/rumadra"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 
 Firestore のコレクションやサブコレクションを **Firebase Admin SDK** を用いてローカル環境で簡単に **エクスポート／インポート** できるCLIツールです。
 
