@@ -1,5 +1,7 @@
 # firestore-io
 
+<a href="https://www.buymeacoffee.com/rumadra"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rumadra&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
 Firestore のコレクションやサブコレクションを **Firebase Admin SDK** を用いてローカル環境で簡単に **エクスポート／インポート** できるCLIツールです。
 
 ## 機能
@@ -122,4 +124,4 @@ npx tsx firestore-admin-io.ts \
 
 ------
 
-以上です。ご質問や問題があればお気軽に Issue 立ててください。
+要望や質問、不具合があればお気軽に Issue 立ててください。
